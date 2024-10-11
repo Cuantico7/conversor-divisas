@@ -29,9 +29,7 @@ El proyecto tiene tres clases:
 
 
 
-### AUTOR
 
-Giovanni Roque
 
 
 
